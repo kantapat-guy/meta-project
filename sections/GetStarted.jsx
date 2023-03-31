@@ -23,7 +23,7 @@ const GetStarted = () => (
         className={`${style.flexCenter} flex-1`}
       >
         <img
-          src="/get-started.png"
+          src="/get-started.svg"
           alt="planet-left"
           className="w-[90%] h-[90%] object-contain"
         />

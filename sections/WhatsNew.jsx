@@ -35,7 +35,7 @@ const WhatsNew = () => (
         className={`${style.flexCenter} flex-1`}
       >
         <img
-          src="/whats-new.png"
+          src="/whats-new.svg"
           alt="planet-left"
           className="w-[90%] h-[90%] object-contain"
         />
